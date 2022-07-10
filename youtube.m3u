@@ -18,10 +18,10 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Haber" tvg-logo="" tvg-id="", HABERTÜRK
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657490970/ei/uvnKYsWGDZbJkgbk1aiABA/ip/20.59.123.58/id/SqHIO2zhxbA.9/source/yt_live_broadcast/requiressl/yes/tx/24217860/txs/24161929%2C24217860%2C24231647%2C24231648/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khpq4vimEs3V5svcZacyF4geXk8c/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJTZxfgqYTWwTdZvDhgGHkjHWdss5a7SJ_ygQ78VpSWUCIQD0VMjwvSIMoFJVtnYaf0GPu2T2dU18F9rf0CtK0GLhVQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657494491/ei/ewfLYqiTI5iJhwbOuoKQCw/ip/20.97.240.215/id/SqHIO2zhxbA.9/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhpLmkC6EPADMZ0rwuBEa4KVd3q4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXKiDPvxoDd68g1Tp1vTsTb8ZGliIakN_BTQ6eKM-VHYCIQCPwD-Zho8ULHzM1_ddWF-aw1Mzk0hElcKlN0bkAwk7YQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Haber" tvg-logo="" tvg-id="", CNN TÜRK
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657490971/ei/uvnKYovxMMuNkga7vrKADg/ip/20.59.123.58/id/X_EWYemclKA.5/source/yt_live_broadcast/requiressl/yes/tx/24217860/txs/24161929%2C24217860%2C24231647%2C24231648/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhgUsVO2SIDaNdzPa5b2SQy1f_Vk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgEBo5OeMMEro2ARLA6v4gWISgXTjq8OpmsBbBx96B0LkCIQCls_-ZB7JHIHlVPGvqjG53xwk9PcBfnH6tTfoW9zOY3g%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657494492/ei/fAfLYoD-BMazhwaUyY3ACw/ip/20.97.240.215/id/X_EWYemclKA.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhmBa3Trgkwyl-02-WKgqY8mywvQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgdNkchWyAOQUxrcXhBw64Q-yznylhGY8OrHbmPK2Q-mECIBL9QiWN1TLUbblvURsSGqBMqg7C1x3DRmLMtDxMFI9Y/file/index.m3u8
 
 #EXTINF:-1 group-title="Ulusal" tvg-logo="" tvg-id="", KRT
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Ulusal" tvg-logo="" tvg-id="", TV100
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657490996/ei/1PnKYsuIIY-Gkga92YDYCA/ip/20.59.123.58/id/8jEXHzMTR7s.3/source/yt_live_broadcast/requiressl/yes/tx/24217860/txs/24161929%2C24217860%2C24231647%2C24231648/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Kho-stj5rJhg97Bpc1JEwHBzOjvw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgKwVl27edYx4kD0AdNFAEeEVhxFZVBI5G_vD09KCu1oICIQD5aXWod2gvqrVr__ekBjAkMB-KJHeTIz5Jn3TjzaZbRw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657494509/ei/jQfLYsaABpiahwauvpeIDg/ip/20.97.240.215/id/8jEXHzMTR7s.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khsb2p6nzZ6lw4Ldq7NF7GqVN058/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgVAnedSRF-Uhoj-N_IP7hTdpj9knOVsstXVruh43qZFcCIBXLVdovxhAIqMWSf2LciiN6g2pC8qqg9VVujK3FTz_F/file/index.m3u8
 
 #EXTINF:-1 group-title="Müzik" tvg-logo="" tvg-id="", KRAL
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Haber" tvg-logo="" tvg-id="", NTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657490998/ei/1vnKYqb3HtrGkgab65H4CQ/ip/20.59.123.58/id/XEJM4Hcgd3M.5/source/yt_live_broadcast/requiressl/yes/tx/24217860/txs/24161929%2C24217860%2C24231647%2C24231648/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhgflW95ppr8McgC4OMC8eGn5Y5A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANjr6nM56GmpSu6R_HGgZdUtuS5KfR7gvS1iwgwS9BZcAiEAybDWS4RPv5PN-DrcSVwmOFYN_l8I6OBeOqC6Mwwmq3w%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657494511/ei/jwfLYucB1peHBofHrBA/ip/20.97.240.215/id/XEJM4Hcgd3M.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhrwJPvgehv1u33Oh6WMitOVlemA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALP6HBfUmKGDDnRbxZhGfhKg6D9X1rt2ADbc9Ac4J5yaAiAfiV6y_TpnSU2E7C_f3MLrZNu2YhIdX2S7gyxDafMrqw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Radyo" tvg-logo="" tvg-id="", KRAL RADYO
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -129,7 +129,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Haber" tvg-logo="" tvg-id="", MILLI PIYANGO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657491050/ei/CvrKYvT2MdSIkgaKqqSIBg/ip/20.59.123.58/id/WKypAM4TlfE.3/source/yt_live_broadcast/requiressl/yes/tx/24217860/txs/24161929%2C24217860%2C24231647%2C24231648/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhqR2EMpRrstJmiDWiOyZmOqMcRs/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWnbMfjwiWoyVWyPk7IxVuU2OrL6HmojcI_vS3rGNL6ECIETZYXIA1o_UzwVN6RxKtY6pxc2WQZvwgtnJzs51-__p/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657494552/ei/uAfLYrOeHpDkhway6IPACA/ip/20.97.240.215/id/WKypAM4TlfE.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhlVNYkoIm4uKZS8SHOCRcS01QdE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgV0O2-h3sPOMZzmicMgoYNPDwMCxCL0T9X6a9ILHjFrwCIQC1ue-7Mg1q1yzTjHUm2rXmv05PhFWHcY3d0gx0dusWpg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Cocuk" tvg-logo="" tvg-id="", COCUK TV 1
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -138,7 +138,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Cocuk" tvg-logo="" tvg-id="", COCUK TV 3
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657491063/ei/F_rKYvexEcuNkga7vrKADg/ip/20.59.123.58/id/K1l0rbRdEdQ.3/source/yt_live_broadcast/requiressl/yes/tx/24217860/txs/24161929%2C24217860%2C24231647%2C24231648/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khjs_jc5WieGeeROYDkYNAmejips/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPaoyUfjggIy1WBWH_kSKFdDUkiWHMqavB0TRcfrxduMCIDpzrmSvFOB9tvJAqnGmhJXY9P506FPydqYXH8Cs1q-0/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657494560/ei/wAfLYv2jC_XI4wHfhJ3wCA/ip/20.97.240.215/id/K1l0rbRdEdQ.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhhG55gGswqdmeZYKsps7X4zu2G4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKubU0XBwpRJzBg3O6Anqi2OI-Gzbf1AT4goABvZ8ST7AiAmcXBANSsJXZZR7Rta3XI48VIBkXRpNuePgzkxfowttA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Cocuk" tvg-logo="" tvg-id="", COCUK TV 4
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -309,7 +309,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Radyo" tvg-logo="" tvg-id="", RADYO TURKUVAZ EFSANE
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657494616/ei/9wfLYoq5N9aXhwaHx6wQ/ip/20.97.240.215/id/aaE_AsKlxvo.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khs7PIz2-lkgpRpVQ64a2UxhdbvU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAK7GWfUDkYCH_hPkBPVICcXH8bh0RnjkXZ0KXkoxfhpvAiEAlP6_HFSDLDv7JTZ30XCYZgv1hLXieMTarFIUwQWpP5E%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Radyo" tvg-logo="" tvg-id="", RADYO DEM
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -321,7 +321,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Radyo" tvg-logo="" tvg-id="", RADYO TURKUVAZ ROMANTIK
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657494617/ei/-QfLYumtLY2shwbjyKPAAw/ip/20.97.240.215/id/VEAIVHthrhs.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khn11JDImP0EB3azKbQ9GcCqNUlM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJE0NX3It7JnV_WZqTFh9ztqIzqhFlMT9uNmlP6r59lvAiBxCS-VQvyLnlUT8iQtYo2fmrdMv5nV7nuRWAHVBCrSOg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Radyo" tvg-logo="" tvg-id="", RADYO GÖKKUSAGI REMIX
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
